@@ -1,0 +1,13 @@
+.ScrollDiv {
+     width: 500px;
+     overflow: auto;
+     height: 200px;
+     margin-left: auto;
+     margin-right: auto;
+   }
+   
+   table {
+     width: 100%;
+     position: relative !important;
+     
+   }
